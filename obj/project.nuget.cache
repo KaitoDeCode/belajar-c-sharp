@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZgsH1UI+PArxWVyZqfNmnksDOjdGBxf24RN/Fjp+GMeE2J3Mkf5LVEFTovwY1qECsZnguKWswGfrBBJnC/Wzw==",
+  "success": true,
+  "projectFilePath": "/home/kaito/Projects/belajar-c#/belajar-c#.csproj",
+  "expectedPackageFiles": [
+    "/home/kaito/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

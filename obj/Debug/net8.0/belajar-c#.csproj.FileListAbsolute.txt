@@ -1,0 +1,14 @@
+/home/kaito/Projects/belajar-c#/bin/Debug/net8.0/belajar-c#
+/home/kaito/Projects/belajar-c#/bin/Debug/net8.0/belajar-c#.deps.json
+/home/kaito/Projects/belajar-c#/bin/Debug/net8.0/belajar-c#.runtimeconfig.json
+/home/kaito/Projects/belajar-c#/bin/Debug/net8.0/belajar-c#.dll
+/home/kaito/Projects/belajar-c#/bin/Debug/net8.0/belajar-c#.pdb
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.AssemblyInfoInputs.cache
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.AssemblyInfo.cs
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.csproj.CoreCompileInputs.cache
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.dll
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/refint/belajar-c#.dll
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.pdb
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.genruntimeconfig.cache
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/ref/belajar-c#.dll
