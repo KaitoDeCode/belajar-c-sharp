@@ -12,3 +12,4 @@
 /home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.pdb
 /home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.genruntimeconfig.cache
 /home/kaito/Projects/belajar-c#/obj/Debug/net8.0/ref/belajar-c#.dll
+/home/kaito/Projects/belajar-c#/obj/Debug/net8.0/belajar-c#.sourcelink.json
