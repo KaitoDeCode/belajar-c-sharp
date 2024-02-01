@@ -2,7 +2,7 @@
 Console.WriteLine("SELAMAT DATANG DI LATIHAN C# INI");
 
 
-string name = "Adi Kurniawan";
+const string name = "Adi Kurniawan";
 
 // Output
 Console.WriteLine(name);
