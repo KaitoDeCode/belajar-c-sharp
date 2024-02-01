@@ -5,5 +5,9 @@ Console.WriteLine("SELAMAT DATANG DI LATIHAN C# INI");
 const string name = "Adi Kurniawan";
 double phi = 3.14, tinggiBadan = 160.0;
 
+// Explicit Casting
+double myDouble = 9.78;
+int myInt = (int) myDouble;
+
 // Output
-Console.WriteLine(name);
+Console.WriteLine(name,myInt);
