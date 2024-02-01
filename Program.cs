@@ -13,7 +13,9 @@ int myInt = (int) myDouble;
 int myInt2 = 9;
 double myDouble2 = myInt2;
 
+//Convert
+string phiString = Convert.ToString(phi);
 
 
 // Output
-Console.WriteLine(myDouble2);
+Console.WriteLine(phiString);
