@@ -9,5 +9,11 @@ double phi = 3.14, tinggiBadan = 160.0;
 double myDouble = 9.78;
 int myInt = (int) myDouble;
 
+//Implicit Casting
+int myInt2 = 9;
+double myDouble2 = myInt2;
+
+
+
 // Output
-Console.WriteLine(name,myInt);
+Console.WriteLine(myDouble2);
